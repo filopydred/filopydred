@@ -1,5 +1,3 @@
-<details>
-<summary><strong>👋 Hi, I’m @filopydred</strong></summary>
 
 👀 Data analysis is my way to understand the world around me. I'm passionate about deriving insights from data. 📊🌐
 🌱 I’m currently honing my skills in data science and machine learning.
